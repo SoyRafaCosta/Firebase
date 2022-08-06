@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637163253807",
+    "project_id": "app-firebase-rafa",
+    "storage_bucket": "app-firebase-rafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637163253807:android:aa260343a5d5217af996da",
+        "android_client_info": {
+          "package_name": "com.lovepeople.app_firebase_rafa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637163253807-s7je3s7vm0ts6h9hm26jhj36vclkpk1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVn5pchFUqjgE9VnwsHTv4pskx0dYY4l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637163253807-s7je3s7vm0ts6h9hm26jhj36vclkpk1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
